@@ -7,7 +7,7 @@ export default function App() {
     <TailwindProvider>
       <View style={styles.container}>
         <Text className="text-red-500">
-          Open up App.js to start working on your app!
+          Testing APP!
         </Text>
         <StatusBar style="auto" />
       </View>
